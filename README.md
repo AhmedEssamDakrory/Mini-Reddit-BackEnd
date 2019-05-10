@@ -1,5 +1,7 @@
 # Mini-Reddit-BackEnd
 
+# API DOC : Mini-Reddit-BackEnd/tree/master/Mini-Reddit Project/public/docs/index.html.
+
 Edits:
 Authenticate : Mini-Reddit Project\vendor\laravel\framework\src\Illuminate\Auth\Middleware\Authenticate.php
 
